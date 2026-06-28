@@ -1,0 +1,16 @@
+FIELD_NAME,DESCRIPTION,DATA_TYPE
+GISPROPNUM,Unique GIS property identifier,Text
+PARK_NAME,Publicly displayed name of the park,Text
+BOROUGH,New York City borough,Text
+ADDRESS,Street address of the park property,Text
+LOCATION,Description of the park location,Text
+ACRES,Area of the park property in acres,Numeric
+TYPECATEGORY,Main category of the park property,Text
+SUBCATEGORY,More specific classification of the park,Text
+WATERFRONT,Whether the property is located along the waterfront,Boolean
+ZIPCODE,ZIP code associated with the property,Text
+COMMUNITYBOARD,Community board district,Text
+COUNCILDISTRICT,New York City Council district,Text
+LATITUDE,Latitude of the calculated park centroid,Numeric
+LONGITUDE,Longitude of the calculated park centroid,Numeric
+GEOMETRY,Multipolygon boundary of the park property,Spatial geometry
